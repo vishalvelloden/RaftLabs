@@ -27,7 +27,7 @@ This solution is a .NET 8 Web API for user management, integrating with an exter
 
 1. **Clone the repository:**
 
-   git clone <your-repo-url>
+   git clone https://github.com/vishalvelloden/RaftLabs.git
    cd <repo-root>
 
 2. **Restore dependencies:**
